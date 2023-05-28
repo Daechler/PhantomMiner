@@ -1,0 +1,6 @@
+name: PhantomMiner
+version: '${project.version}'
+main: net.daechler.phantomminer.PhantomMiner
+api-version: 1.19
+authors: [Daechler]
+description: Break blocks in spectator mode.
